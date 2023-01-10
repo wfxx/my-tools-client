@@ -1,3 +1,2 @@
 # my-tools-client
-## 项目框架
-flutter
+my-tools客户端代码
